@@ -1,7 +1,6 @@
 {
-	"adsType": "",
-	"isShowFreeCoin": "",
-	"isShowHint": "",
-	"gameType": "",
-	"soundPGWord": ""	
+	"adsType": "1",
+	"isShowFreeCoin": "0",
+	"isShowHint": "0",
+	"gameType": "0"	
 }
